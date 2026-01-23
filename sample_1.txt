@@ -1,1 +1,2 @@
 New line added in sample_1 file.
+Finally, this is another line added through remote repository in sample_1 file
