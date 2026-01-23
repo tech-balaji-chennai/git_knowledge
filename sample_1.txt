@@ -1,2 +1,1 @@
-This is my sample file with modified text
 New line added in sample_1 file.
